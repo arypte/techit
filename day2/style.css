@@ -66,3 +66,24 @@ span {
     padding: 0;
   }
 }
+
+.ib {
+  display: inline-block;
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}
+
+.b {
+  display: block;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.i {
+  display: inline;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
