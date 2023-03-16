@@ -1,1 +1,60 @@
 div 태그
+기본적으로 줄바꿈
+
+html 사용한 이미지 불러오기
+버튼 추가
+
+vc 확장 프로그램을 사용한 라이브서버
+( 코드 수정과 동시에 자동 새로고침 정도)
+
+tw
+테일윈드?
+
+font-weight : 굵기
+
+마진과 패딩의 차이
+
+테두리 안의 공간 : 패딩
+테두리 밖의 공간 : 마진
+
+플렉스 사용 x
+img {
+  width: 108px;
+}
+
+button {
+  background-color: white;
+  border: 0;
+  color: #222222;
+  font: size 16px;
+  font-weight: 600;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+span {
+  border: 5px solid pink;
+}
+
+.login {
+  color: #737373;
+  float: right;
+}
+
+header {
+  padding: 24px;
+  margin-left: 144px;
+  margin-right: 144px;
+}
+
+.firstBtn {
+  margin-left: 80px;
+}
+
+안쓰면 화면을 줄였을때 찌그러짐
+
+
+플렉스의 첫번째 룰
+부모한테 적용 ex hedaer
+
+
