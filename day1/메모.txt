@@ -1,0 +1,11 @@
+현재 어느정도 할수 있는지
+목표하는거
+달성하기 위해서 이렇게 생각한다.
+
+.gitignore // 깃헙에 안올라가는 파일
+
+git init // new repositories
+
+git add . // save
+git commit -m "first commit" // commit
+git push -u origin main // push
