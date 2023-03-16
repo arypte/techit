@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  background-color: aqua;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.box:nth-child(1) {
+  background-color: pink;
+}
+
+.box:nth-child(2) {
+  background-color: red;
+}
+
+.box:nth-child(3) {
+  background-color: gainsboro;
+}
+
+/* 
+ *  justify-content - J
+ *  align-items     - A
+ *
+ *  row     column
+ *   X        X
+ *   J        J
+ *   A        A
+ *   J, A     J, A
+ */

@@ -1,8 +1,14 @@
+body {
+  margin: 0;
+}
+
 header {
   padding: 24px;
-  margin-left: 144px;
-  margin-right: 144px;
   display: flex;
+  justify-content: space-between;
+
+  max-width: 1280px;
+  margin: auto;
 }
 
 img {
@@ -17,6 +23,7 @@ button {
   font-weight: 600;
   padding-left: 16px;
   padding-right: 16px;
+  display: none;
 }
 
 span {
@@ -24,9 +31,38 @@ span {
 }
 
 .login {
-  color: #737373;
+  display: inline-block;
+  border: 1px solid rgb(232, 232, 232);
+  border-radius: 9999px;
+  font-size: 14px;
+  padding: 8px 16px;
+  /* 첫번째가 상하, 두번째가 좌우 */
+}
+
+.loginBox {
+  display: flex;
 }
 
 .firstBtn {
   margin-left: 80px;
+}
+
+.ellipsis {
+  width: 24px;
+  margin-left: 16px;
+}
+
+@media (min-width: 1024px) {
+  button {
+    display: inline-block;
+  }
+  .ellipsis {
+    display: none;
+  }
+  .login {
+    color: #737373;
+    font-size: 16px;
+    border: 0;
+    padding: 0;
+  }
 }

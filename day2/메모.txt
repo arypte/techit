@@ -1,5 +1,6 @@
 div 태그
 기본적으로 줄바꿈
+div 태그 블록속성??
 
 html 사용한 이미지 불러오기
 버튼 추가
@@ -57,4 +58,33 @@ header {
 플렉스의 첫번째 룰
 부모한테 적용 ex hedaer
 
+flex
+inlineblock
 
+
+cross axis
+
+https://flexboxfroggy.com/#ko
+여기서 해보면 이해가 쉬울듯
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+
+  display: flex;
+  background-color: aqua;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  /* 
+ *  justify-content - J
+ *  align-items     - A
+ *
+ *  row     column
+ *   X        X
+ *   J        J
+ *   A        A
+ *   J, A     J, A
+ */
+
+ border : 테두리
