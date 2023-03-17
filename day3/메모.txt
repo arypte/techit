@@ -1,0 +1,9 @@
+.banner img {
+
+}
+banner 내부의 img 에 전부 적용
+우선순위가 높음
+
+banner img 로 사이즈 20
+banner_img 로 사이즈 10 하면
+사이즈 20 적용
