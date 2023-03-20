@@ -1,0 +1,3 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+
+url에 있는거를 붙여오나?
