@@ -1,0 +1,28 @@
+.info {
+  color: whitesmoke;
+  border: 0;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.info {
+  background-color: darkgray;
+}
+
+.alert {
+  background-color: darkred;
+  color: whitesmoke;
+  border: 0;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.success {
+  background-color: darkgreen;
+  color: whitesmoke;
+  border: 0;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+/*# sourceMappingURL=button.css.map */

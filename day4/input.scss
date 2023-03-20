@@ -1,30 +1,29 @@
-$offBlack: #253342;
-$rosePink: #ebb8dd;
-$darkRed: #bf2c34;
-$seaGreen: #53bda5;
-$lightGray: #cbd6e2;
-$megenta: #be398d;
+@import "color";
 
-h1 {
-  background-color: $offBlack;
-}
+div {
+  h1 {
+    background-color: $offBlack;
+  }
 
-h2 {
-  background-color: $rosePink;
-}
+  h2 {
+    background-color: $rosePink;
+  }
 
-h3 {
-  background-color: $darkRed;
-}
+  h3 {
+    background-color: $darkRed;
+  }
 
-h4 {
-  background-color: $seaGreen;
-}
+  h4 {
+    background-color: $seaGreen;
+  }
 
-h5 {
-  background-color: $lightGray;
-}
+  h5 {
+    background-color: $lightGray;
+  }
 
-h6 {
-  background-color: $megenta;
+  a {
+    h6 {
+      background-color: $megenta;
+    }
+  }
 }

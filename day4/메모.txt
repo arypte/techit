@@ -1,3 +1,9 @@
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
 
 url에 있는거를 붙여오나?
+
+sass --watch input.scss style.css
+
+mixin // 아마 구조체or 클래스 느낌인듯
+
+extend
