@@ -7,3 +7,7 @@ sass --watch input.scss style.css
 mixin // 아마 구조체or 클래스 느낌인듯
 
 extend
+
+네스팅?
+
+backgroun-color : transparent ; // 부모색
