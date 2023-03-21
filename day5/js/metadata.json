@@ -1,0 +1,16 @@
+{
+  "name": "JDH",
+  "description": "Good Person",
+  "image": "https://이미지경로",
+
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Aquamrien"
+    },
+    {
+      "trait_type": "EARRING",
+      "value": "Siver Hoop"
+    }
+  ]
+}
