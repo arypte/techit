@@ -1,0 +1,17 @@
+@import "responsive";
+
+body {
+  margin: 0;
+
+  background-color: lightpink;
+
+  @include responsive("tablet") {
+    background-color: pink;
+  }
+  @include responsive("laptop") {
+    background-color: yellow;
+  }
+  @include responsive("pc") {
+    background-color: black;
+  }
+}
