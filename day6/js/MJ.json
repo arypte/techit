@@ -1,0 +1,24 @@
+{
+  "name": "MJ",
+  "description": ":)" ,
+  "artist" : "zheli" ,
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Human"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "THEME",
+      "value": "PINK"
+    },
+    {
+      "trait_type": "GENDER",
+      "value": "F"
+    }
+  ]
+}
