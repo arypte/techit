@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.main {
+  background-color: pink;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 4p;
+}
+
+/*# sourceMappingURL=style.css.map */
